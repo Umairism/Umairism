@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on Instagram and Github.
 - 📫 How to reach me Instagram: @umairism and Whatsapp: +92 349 0542811
-- 😄 Pronouns: don't be an LGBT so just go with He/Him.
+- 😄 Pronouns: I am not an LGBT kind of guy so just go with He/Him.
 - ⚡ Fun fact: No fun fact at all 😂😂 just an ugly-looking guy with some personality issues XD, and I am also an introvert so what you would expect from me lol.
 
 <!---
