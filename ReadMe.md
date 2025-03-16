@@ -1,21 +1,50 @@
-# 💫 About Me:
-👋 Hi, I’m @Umairism<br>👀 I’m interested in building something that will be used for the betterment of this new era of technologies, I aim to make an AI-based platform that can hold sensitive information and can be used offline for maximum security. and also I should be an open source.<br>🌱 I’m currently learning C++ and Java.<br>💞️ I’m looking to collaborate on Instagram and GitHub.<br>📫 How to reach me Instagram: @umairism and WhatsApp: +92 349 0542811<br>😄 Pronouns: I am not an LGBT kind of guy so just go with He/Him.<br>⚡ Fun fact: No fun fact at all 😂😂 just an ugly-looking guy with some personality issues XD, and I am also an introvert so what you would expect from me lol.
+Muhammad Umair Hakeem | GitHub Profile
+Welcome to my GitHub profile! I'm Muhammad Umair Hakeem, a developer with a passion for web development and a diverse skill set.
 
+Before we dive into the details, let's take a quick look at my GitHub stats:
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/night_crawler00) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Umair Hakeem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_umairism) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Umair Hakeem) 
+Github Stats
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Umairism&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Umairism&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairism&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+As you can see, my GitHub activity has been moderate, and I'm actively working on improving it. I have 6 public repositories, covering various aspects of web development. While my repositories don't currently have any stars, each project has its own unique value. Let's explore these projects in a bit more detail.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Umairism&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Project Highlights
+1. E-commerce System
+This project encompasses an e-commerce system developed using JavaScript, HTML, and CSS. While it's still a work in progress, it showcases my ability to build dynamic and interactive web applications.
 
----
-[![](https://visitcount.itsvg.in/api?id=Umairism&icon=0&color=0)](https://visitcount.itsvg.in)
+2. Task Manager
+The task manager is a project that demonstrates my skills in Python. It's designed to help users organize and manage their tasks efficiently. Through this project, I've honed my Python programming abilities.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+3. Student Portal
+A student portal is a web application that I've developed using various technologies such as React.JS and TypeScript. It aims to help students and educators easily access and manage educational resources.
+
+4. Weather App
+As a weather enthusiasts, I decided to create a weather app that utilizes JavaScript to retrieve weather data from an API and present it in a user-friendly manner.
+
+5. Portfolio
+My portfolio showcases my other projects and provides a deeper insight into my capabilities and what I can offer as a developer.
+
+For more information about these projects or to explore them in detail, please visit my GitHub profile.
+
+Skill Set and Interests
+As a developer, I have experience in various programming languages and technologies. Here's a quick rundown of my skills and interests:
+
+Programming languages: JavaScript, Python, HTML, CSS
+Frameworks and libraries: React.JS, TypeScript
+Database systems: MySQL, MongoDB
+Data visualization: D3.js
+Other technologies: Docker, AWS
+I'm passionate about exploring new technologies, developing innovative solutions, and constantly improving my skills. My main interests lie in web development, app development, and problem-solving through code.
+
+Contact Information
+If you want to get in touch with me or discuss any collaboration opportunities, feel free to reach out via the following channels:
+
+Email: muhammadumairhakeem@example.com
+LinkedIn: Muhammad Umair Hakeem
+I'm always open to new projects, challenges, and learning opportunities. Don't hesitate to connect with me!
+
+Final Thoughts
+Thank you for taking the time to explore my GitHub profile and learn more about my skills and projects. I'm continuously working on expanding my knowledge and creating projects that contribute to the web development community.
+
+If you're interested in collaboration or want to learn more about my work, feel free to contact me through the provided channels.
+
+Happy coding!
