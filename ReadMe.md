@@ -65,7 +65,7 @@ print(dev.current_focus())
   
 | 🏆 **Featured Projects** | 🔧 **Technologies** | 🌟 **Status** |
 |:------------------------:|:-------------------:|:--------------:|
-| [**SlimeTube** - Video Streaming Platform](https://github.com/Umairism/SlimeTube) | React 18, TypeScript, Vite, IndexedDB | ✅ Completed |
+| [**SlimeTube** - Video Streaming Platform](https://flixii.netlify.app) | React 18, TypeScript, Vite, IndexedDB | 🚀 Live |
 | [**ModernShop** - E-Commerce Platform](https://myecoms.netlify.app) | React, Django REST, Netlify Functions | 🚀 Live |
 | [**Drone Surveillance System**](https://github.com/Umairism/Drone-System) | Python, OpenCV, Flask, WebRTC | 🔄 Active |
 | [**Medical Store Management**](https://memymedi.netlify.app) | React, TypeScript, Tailwind CSS | ✅ Deployed |
