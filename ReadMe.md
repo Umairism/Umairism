@@ -65,7 +65,7 @@ print(dev.current_focus())
   
 | 🏆 **Featured Projects** | 🔧 **Technologies** | 🌟 **Status** |
 |:------------------------:|:-------------------:|:--------------:|
-| [**SlimeTube** - Video Streaming Platform](https://flixii.netlify.app) | React 18, TypeScript, Vite, IndexedDB | 🚀 Live |
+| [**SlimeTube** - Video Streaming Platform](https://github.com/Umairism/SlimeTube) | React 18, TypeScript, Vite, IndexedDB | ✅ Completed |
 | [**ModernShop** - E-Commerce Platform](https://myecoms.netlify.app) | React, Django REST, Netlify Functions | 🚀 Live |
 | [**Drone Surveillance System**](https://github.com/Umairism/Drone-System) | Python, OpenCV, Flask, WebRTC | 🔄 Active |
 | [**Medical Store Management**](https://memymedi.netlify.app) | React, TypeScript, Tailwind CSS | ✅ Deployed |
@@ -183,7 +183,12 @@ print(dev.current_focus())
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Umairism&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 📈 **Contribution Analytics**
-![Snake animation](https://github.com/Umairism/Umairism/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umairism&theme=radical&hide_border=true&area=true&point=false)
+
+</div>
 
 ### 📊 **Advanced Repository Analytics**
 
@@ -193,14 +198,14 @@ print(dev.current_focus())
 <tr>
 <td align="center">
 
-**📈 Commit Activity**
-![GitHub Commit Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Umairism&theme=radical&hide_border=true)
+**📈 Commit Frequency**
+![Commit Graph](https://github-readme-stats.vercel.app/api?username=Umairism&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics)
 
 </td>
 <td align="center">
 
-**🔥 Contribution Stats**
-![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=Umairism&limit=5&theme=radical&combine_all_yearly_contributions=true)
+**🔥 Streak Analytics**
+![Streak Stats](https://streak-stats.demolab.com/?user=Umairism&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </td>
 </tr>
@@ -208,11 +213,11 @@ print(dev.current_focus())
 
 </div>
 
-### 📋 **Detailed GitHub Metrics**
+### 📋 **Detailed Contribution Metrics**
 
 <div align="center">
 
-![GitHub metrics](https://metrics.lecoq.io/Umairism?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FKarachi)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Umairism&theme=radical)
 
 </div>
 
@@ -266,10 +271,11 @@ print(dev.current_focus())
 
 <div align="center">
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Umairism&theme=radical&hide_border=true&layout=compact)
+**📊 Weekly Coding Activity**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umairism&theme=react-dark&bg_color=20232a&hide_border=true&point=false&area=true&custom_title=Contribution%20Activity)
 
-**Weekly Development Breakdown**
-![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=Umairism&theme=react-dark&hide_border=true&area=true)
+**📈 Language Usage Over Time**
+![Language Trends](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairism&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=445)
 
 </div>
 
@@ -277,7 +283,22 @@ print(dev.current_focus())
 
 <div align="center">
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairism&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎯 Most Used Languages**
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairism&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)
+
+</td>
+<td align="center" width="50%">
+
+**📊 Code Distribution**
+![Language Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairism&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
+
+</td>
+</tr>
+</table>
 
 </div>
 
