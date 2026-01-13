@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Muhammad+Umair+Hakeem;Full-Stack+Developer+%7C+Software+Engineer;Backend+Specialist+%7C+Python+Expert;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Muhammad+Umair+Hakeem;Software+Engineer+%7C+Full-Stack+Developer;Backend-Focused+%7C+Python+%26+JavaScript;Building+Practical+Web+Applications" alt="Typing SVG" />
 </div>
 
 # Muhammad Umair Hakeem
 
-**Full-Stack Developer | Software Engineer | Python Specialist**
+**Software Engineer | Full-Stack Developer**
 
-Building scalable web applications and innovative digital solutions with modern technologies.
+Building practical, maintainable web applications and developer tools using modern technologies.
 
 ## About Me
 
 <img align="right" alt="Developer" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a passionate full-stack developer with expertise in modern web technologies. My focus is on creating scalable, efficient, and user-friendly applications that solve real-world problems.
+I am a full-stack developer with hands-on experience building web applications, backend services, automation tools, and security-focused utilities.
+
+My work emphasizes clean architecture, scalability, and real-world usability. I enjoy working across the stack, with a stronger focus on backend systems and application logic.
 
 **Current Focus Areas:**
-- Building scalable web applications with React and Python
-- Developing enterprise-grade blockchain solutions
-- Creating cybersecurity tools and penetration testing frameworks  
-- Implementing AI/ML solutions for computer vision projects
-- Mobile development with React Native
+- Full-stack web applications using React and Python
+- Backend services, REST APIs, and automation tools
+- Security tooling and penetration-testing frameworks
+- Exploring applied machine learning and computer vision concepts
 
 **Professional Highlights:**
-- 32+ completed projects across diverse domains
-- 3+ years of development experience
-- Expertise in full-stack development, cybersecurity, and blockchain
-- Strong background in both frontend and backend technologies
+- 30+ personal and academic projects across multiple domains
+- Strong foundation in full-stack development and backend systems
+- Experience with security tooling, automation, and system utilities
 
 ---
 
@@ -38,14 +38,21 @@ I am a passionate full-stack developer with expertise in modern web technologies
 
 ## Featured Projects
 
-| Project | Technologies | Status | Links |
-|---------|-------------|---------|-------|
-| **CodeSpace - Browser IDE** | React 18, TypeScript, Monaco Editor, Python Interpreter | Live | [Demo](https://webcodespace.netlify.app) \| [Code](https://github.com/Umairism/codespace) |
-| **Blockchain Certificate System** | React, TypeScript, Flask, Python, Custom Blockchain | Active | [Code](https://github.com/Umairism/blockchain-certificate-verification) |
-| **LinuxOS Desktop Environment** | Vanilla JavaScript, HTML5, CSS3, Window Management | Live | [Demo](https://linuxos.netlify.app) \| [Code](https://github.com/umairism/linuxos-desktop) |
-| **SlimeTube Video Platform** | React 18, TypeScript, Vite, IndexedDB | Live | [Demo](https://flixii.netlify.app) \| [Code](https://github.com/Umairism/SlimeTube) |
-| **ModernShop E-Commerce** | React, Netlify Functions, Node.js | Live | [Demo](https://myecoms.netlify.app) \| [Code](https://github.com/Umairism/e-commerce) |
-| **Advanced Pentest Framework** | Python, Scapy, Tkinter, Multi-threading | Active | [Code](https://github.com/Umairism/advanced-pentest-framework) |
+| Project | Description | Technologies | Links |
+|--------|-------------|--------------|-------|
+| **CodeSpace – Browser IDE** | Full in-browser coding environment with Python execution and multi-file support. | React 18, TypeScript, Monaco Editor, Python | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://webcodespace.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/codespace) |
+| **LinuxOS Desktop Environment** | Web-based desktop environment with window management and system-like UI behavior. | JavaScript, HTML5, CSS3 | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://linuxos.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/umairism/linuxos-desktop) |
+| **SlimeTube Video Platform** | Video streaming platform with offline support using IndexedDB and modern React tooling. | React 18, TypeScript, Vite, IndexedDB | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://flixii.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/SlimeTube) |
+| **ModernShop E-Commerce** | Full-stack e-commerce prototype with product flow, cart logic, and backend functions. | React, Node.js, Netlify Functions | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://myecoms.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/e-commerce) |
+| **Advanced Pentest Framework** | Modular penetration-testing toolkit with automation and multi-threaded scanning. | Python, Scapy, Tkinter | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/advanced-pentest-framework) |
+| **Blockchain Certificate System** | Certificate verification system using a custom blockchain for tamper resistance. | React, TypeScript, Flask, Python | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/blockchain-certificate-verification) |
+
+## Other Notable Projects
+
+- **Office Management System** – Internal management system for handling records and workflows.  
+- **Portfolio Website** – Personal portfolio showcasing projects and skills.  
+- **Automation & Utility Scripts** – Small Python and JavaScript tools for task automation and experimentation.
+
 
 ## Technology Stack
 
@@ -106,17 +113,16 @@ I am a passionate full-stack developer with expertise in modern web technologies
 ## Professional Focus
 
 **Current Specializations:**
-- Full-stack web development with React and Python
-- Enterprise blockchain solutions and cryptocurrency projects  
-- Cybersecurity tools and penetration testing frameworks
-- Computer vision and AI/ML applications
-- Mobile development with React Native
+- Full-stack web development (React, Python, JavaScript)
+- Backend services, APIs, and automation tools
+- Security tooling and penetration testing projects
+- Exploring applied ML and computer vision use cases
 
 **Key Achievements:**
-- 32+ completed projects across diverse technology domains
-- Expertise in modern web technologies and security frameworks
-- Strong background in both frontend and backend development
-- Active contributor to open-source projects
+- Built and deployed multiple real-world web applications
+- Strong command of modern JavaScript and Python ecosystems
+- Experience across frontend, backend, and system-level projects
+- Consistent project-driven development on GitHub
 
 ---
 
@@ -129,11 +135,10 @@ I am a passionate full-stack developer with expertise in modern web technologies
 - **GitHub:** [github.com/Umairism](https://github.com/Umairism)
 
 **Available for:**
-- Full-stack development projects
-- Blockchain and cryptocurrency solutions
-- Cybersecurity consulting and tool development
-- Technical consultation and code reviews
-- Open source collaboration
+- Software development roles and internships
+- Full-stack and backend-focused projects
+- Automation and tooling development
+- Open-source collaboration
 
 ---
 
