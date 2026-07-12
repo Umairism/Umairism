@@ -23,7 +23,7 @@ My work emphasizes clean architecture, scalability, and real-world usability. I 
 - Exploring applied machine learning and computer vision concepts
 
 **Professional Highlights:**
-- 30+ personal and academic projects across multiple domains
+- 25+ personal and academic projects across multiple domains
 - Strong foundation in full-stack development and backend systems
 - Experience with security tooling, automation, and system utilities
 
@@ -36,23 +36,31 @@ My work emphasizes clean architecture, scalability, and real-world usability. I 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umairhakeem.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umairism)
 
-## Featured Projects
+## 🏆 Featured Projects
 
 | Project | Description | Technologies | Links |
 |--------|-------------|--------------|-------|
-| **CodeSpace – Browser IDE** | Full in-browser coding environment with Python execution and multi-file support. | React 18, TypeScript, Monaco Editor, Python | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://webcodespace.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/codespace) |
-| **LinuxOS Desktop Environment** | Web-based desktop environment with window management and system-like UI behavior. | JavaScript, HTML5, CSS3 | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://linuxos.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/umairism/linuxos-desktop) |
-| **SlimeTube Video Platform** | Video streaming platform with offline support using IndexedDB and modern React tooling. | React 18, TypeScript, Vite, IndexedDB | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://flixii.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/SlimeTube) |
-| **ModernShop E-Commerce** | Full-stack e-commerce prototype with product flow, cart logic, and backend functions. | React, Node.js, Netlify Functions | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://myecoms.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/e-commerce) |
+| **CodeSpace – Browser IDE** | Full in-browser coding environment with real Python/JS execution, multi-file support, and zero local setup. | React 18, TypeScript, Monaco Editor, Python | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://webcodespace.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/codespace) |
+| **Blockchain Certificate Verification System** | Enterprise-grade certificate verification platform built on a custom blockchain to eliminate certificate fraud. | React, TypeScript, Flask, Python | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/blockchain-certificate-verification) |
+| **Portable AI Agent** | Privacy-first, fully offline AI assistant with self-learning behavior — no cloud dependency. | Python, PyTorch, AI/ML | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/Porable-Ai-Agent) |
+| **Aircrack-NG GUI** | Enterprise wireless security auditing interface wrapping the Aircrack-NG toolkit in a modern web UI for pen-testers. | React, TypeScript, FastAPI, PostgreSQL, Redis | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/Aircrack_GUI) |
+| **LinuxOS Desktop Environment** | Web-based desktop OS with window management and system-like UI behavior, built with zero dependencies. | Vanilla JS, HTML5, CSS3 | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://linuxos.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/linuxos-desktop) |
+| **3D Portfolio Experience** | Immersive, 60fps-optimized 3D WebGL portfolio with interactive project cards and animations. | TypeScript, Three.js, React Three Fiber | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/3D_Portfolio) |
 | **Advanced Pentest Framework** | Modular penetration-testing toolkit with automation and multi-threaded scanning. | Python, Scapy, Tkinter | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/advanced-pentest-framework) |
-| **Blockchain Certificate System** | Certificate verification system using a custom blockchain for tamper resistance. | React, TypeScript, Flask, Python | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/blockchain-certificate-verification) |
+| **SlimeTube Video Platform** | Video streaming platform with offline playback support via IndexedDB. | React 18, TypeScript, Vite, IndexedDB | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://flixii.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/SlimeTube) |
+| **ModernShop E-Commerce** | Full-stack e-commerce prototype with product flow, cart logic, and serverless backend functions. | React, Node.js, Netlify Functions | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) [Demo](https://myecoms.netlify.app) <br> ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/e-commerce) |
+| **Theme Installer for KDE** | CLI tool to install, apply, and manage KDE Plasma themes/icons from URLs, local archives, or the KDE Store. | Python | ![Code](https://img.shields.io/badge/Code-blue?style=flat-square) [GitHub](https://github.com/Umairism/Theme-Installer-For-KDE) |
 
-## Other Notable Projects
+## 📚 Interactive Learning Platforms
 
-- **Office Management System** – Internal management system for handling records and workflows.  
-- **Portfolio Website** – Personal portfolio showcasing projects and skills.  
-- **Automation & Utility Scripts** – Small Python and JavaScript tools for task automation and experimentation.
+Self-built courseware platforms with hands-on exercises, quizzes, and visualizations:
 
+- **[AI Lean](https://ai-lean.netlify.app)** – Interactive AI & Machine Learning course with hands-on exercises
+- **[SPM Learn](https://spm-learn.netlify.app)** – Software Project Management platform covering Agile, Scrum & PMBOK
+- **[DBMS Learn](https://dbms-learn.netlify.app)** – Database Management Systems platform with ER diagram builders & normalization tools
+- **[CompGrafik](https://compgrafik.netlify.app)** – Computer Graphics platform with interactive WebGL demos
+- **[Parse Flow](https://parse-flow.netlify.app)** – Compiler construction & CFG parsing course with live parse-tree visualizations
+- **[German Lern](https://german-lern.netlify.app)** – Interactive German textbook with vocabulary drills and grammar tracking
 
 ## Technology Stack
 
@@ -75,22 +83,23 @@ My work emphasizes clean architecture, scalability, and real-world usability. I 
 ### Backend & Databases
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Specialized Skills
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -110,28 +119,12 @@ My work emphasizes clean architecture, scalability, and real-world usability. I 
 
 ---
 
-## Professional Focus
-
-**Current Specializations:**
-- Full-stack web development (React, Python, JavaScript)
-- Backend services, APIs, and automation tools
-- Security tooling and penetration testing projects
-- Exploring applied ML and computer vision use cases
-
-**Key Achievements:**
-- Built and deployed multiple real-world web applications
-- Strong command of modern JavaScript and Python ecosystems
-- Experience across frontend, backend, and system-level projects
-- Consistent project-driven development on GitHub
-
----
-
 ## Let's Connect
 
 **Contact Information:**
 - **Email:** malikumairhakim@outlook.com
 - **LinkedIn:** [linkedin.com/in/umairsim](https://www.linkedin.com/in/umairsim/)
-- **Portfolio:** [memyport.netlify.app](https://memyport.netlify.app)
+- **Portfolio:** [umairhakeem.netlify.app](https://umairhakeem.netlify.app)
 - **GitHub:** [github.com/Umairism](https://github.com/Umairism)
 
 **Available for:**
