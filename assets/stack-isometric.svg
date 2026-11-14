@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="216" viewBox="0 0 900 216" fill="none">
+  <rect width="900" height="216" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="899" height="215" rx="12" stroke="#30363d"/>
+
+  <line x1="464" y1="24" x2="464" y2="192" stroke="#21262d" stroke-width="1"/>
+
+  <text x="32" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e" letter-spacing="1.2">ARCHITECTURE &amp; CORE STACK</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+    <rect x="32" y="56" width="400" height="36" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="48" cy="74" r="3.5" fill="#52b383"/>
+    <text x="60" y="78" fill="#52b383" font-weight="600">CLIENT / 3D</text>
+    <text x="158" y="78" fill="#c9d1d9">React, Next.js, TypeScript, Three.js</text>
+
+    <rect x="32" y="102" width="400" height="36" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="48" cy="120" r="3.5" fill="#38bdf8"/>
+    <text x="60" y="124" fill="#38bdf8" font-weight="600">BACKEND</text>
+    <text x="158" y="124" fill="#c9d1d9">Python, FastAPI, Flask, Node.js</text>
+
+    <rect x="32" y="148" width="400" height="36" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="48" cy="166" r="3.5" fill="#a78bfa"/>
+    <text x="60" y="170" fill="#a78bfa" font-weight="600">DATA &amp; OPS</text>
+    <text x="158" y="170" fill="#c9d1d9">PostgreSQL, Docker, Linux, Git</text>
+  </g>
+
+  <text x="496" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e" letter-spacing="1.2">GITHUB DISTRIBUTION  ·  69 PUBLIC REPOS</text>
+  <text x="496" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">
+    TypeScript &amp; Python First
+  </text>
+  <text x="496" y="92" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8b949e">
+    Primary language breakdown across @Umairism public repos
+  </text>
+
+  <clipPath id="barClip">
+    <rect x="496" y="110" width="370" height="12" rx="6"/>
+  </clipPath>
+  <g clip-path="url(#barClip)">
+    <rect x="496" y="110" width="139.4" height="12" fill="#3178c6"/>
+    <rect x="635.4" y="110" width="112.6" height="12" fill="#52b383"/>
+    <rect x="748.0" y="110" width="53.6" height="12" fill="#f1e05a"/>
+    <rect x="801.6" y="110" width="64.4" height="12" fill="#a78bfa"/>
+    <rect x="450" y="110" width="50" height="12" fill="#ffffff" fill-opacity="0.16">
+      <animate attributeName="x" values="440;880;880" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">
+    <circle cx="502" cy="146" r="4" fill="#3178c6"/>
+    <text x="513" y="150">TypeScript</text>
+    <text x="662" y="150" fill="#8b949e" text-anchor="end">26 (38%)</text>
+
+    <circle cx="502" cy="172" r="4" fill="#52b383"/>
+    <text x="513" y="176">Python</text>
+    <text x="662" y="176" fill="#8b949e" text-anchor="end">21 (30%)</text>
+
+    <circle cx="696" cy="146" r="4" fill="#f1e05a"/>
+    <text x="707" y="150">JavaScript</text>
+    <text x="866" y="150" fill="#8b949e" text-anchor="end">10 (14%)</text>
+
+    <circle cx="696" cy="172" r="4" fill="#a78bfa"/>
+    <text x="707" y="176">C# / C++ / Other</text>
+    <text x="866" y="176" fill="#8b949e" text-anchor="end">12 (17%)</text>
+  </g>
+</svg>
