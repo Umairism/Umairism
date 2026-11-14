@@ -1,38 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="444" height="154" viewBox="0 0 444 154" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="146" viewBox="0 0 398 146" fill="none">
   <defs>
     <radialGradient id="g_ac" cx="86%" cy="40%" r="58%">
       <stop offset="0%" stop-color="#f472b6" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="4" y="4" width="440" height="150" rx="10" fill="#07090d" stroke="#f472b6" stroke-opacity="0.28"/>
-  <rect x="0.5" y="0.5" width="439" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="438" height="148" rx="9" fill="url(#g_ac)"/>
+  <rect x="4" y="4" width="394" height="142" rx="10" fill="#07090d" stroke="#f472b6" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="393" height="141" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="392" height="140" rx="9" fill="url(#g_ac)"/>
 
-  <!-- Top bar -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
-    <circle cx="22" cy="24" r="3" fill="#f472b6"/>
-    <text x="32" y="27.5" fill="#f472b6" font-weight="600">SECURITY // UI</text>
-    <text x="420" y="27.5" fill="#8b949e" text-anchor="end">GitHub ↗</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">
+    <circle cx="19" cy="22" r="2.8" fill="#f472b6"/>
+    <text x="28" y="25" fill="#f472b6" font-weight="600">SECURITY // UI</text>
+    <text x="376" y="25" fill="#8b949e" text-anchor="end">GitHub ↗</text>
   </g>
 
-  <!-- Left Content -->
-  <text x="20" y="56" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f0f6fc">Aircrack-NG GUI</text>
-  <text x="20" y="78" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Web interface wrapping Aircrack-NG auditing</text>
-  <text x="20" y="95" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">workflows with async FastAPI job queues.</text>
+  <text x="17" y="52" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">Aircrack-NG GUI</text>
+  <text x="17" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">Web dashboard wrapping Aircrack-NG auditing</text>
+  <text x="17" y="88" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">workflows with async FastAPI job queues.</text>
 
-  <!-- Stack Footer -->
-  <rect x="20" y="114" width="265" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
-  <text x="28" y="128.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#c9d1d9">React · TypeScript · FastAPI · Redis</text>
+  <rect x="17" y="106" width="244" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
+  <text x="25" y="120.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.8" fill="#c9d1d9">React · TypeScript · FastAPI · Redis</text>
 
-  <!-- Right 3D Isometric Artwork -->
-
-  <g>
-    <polygon points="333.61,89.5 366.0,108.2 366.0,116.7 333.61,98.0" fill="#1c1528" stroke="#f472b6" stroke-opacity="0.55" stroke-width="0.9"/>
-    <polygon points="398.39,89.5 366.0,108.2 366.0,116.7 398.39,98.0" fill="#120d1a" stroke="#f472b6" stroke-opacity="0.4" stroke-width="0.9"/>
-    <polygon points="366.0,70.8 398.39,89.5 366.0,108.2 333.61,89.5" fill="#f472b6" fill-opacity="0.2" stroke="#f472b6" stroke-width="1"/>
-    <path d="M 348 72 A 22 22 0 0 1 384 72" stroke="#f472b6" stroke-width="1.2" fill="none"/>
-    <path d="M 355 80 A 14 14 0 0 1 377 80" stroke="#f0f6fc" stroke-opacity="0.65" stroke-width="1.2" fill="none"/>
-    <circle cx="366" cy="88" r="3" fill="#f472b6"/>
+    <g>
+    <polygon points="304.98,86.98 332.0,102.58 332.0,109.6 304.98,94.0" fill="#1c1528" stroke="#f472b6" stroke-opacity="0.55" stroke-width="0.9"/>
+    <polygon points="359.02,86.98 332.0,102.58 332.0,109.6 359.02,94.0" fill="#120d1a" stroke="#f472b6" stroke-opacity="0.4" stroke-width="0.9"/>
+    <polygon points="332.0,71.38 359.02,86.98 332.0,102.58 304.98,86.98" fill="#f472b6" fill-opacity="0.2" stroke="#f472b6" stroke-width="1"/>
+    <path d="M 316 70 A 19 19 0 0 1 348 70" stroke="#f472b6" stroke-width="1.2" fill="none"/>
+    <path d="M 322 77 A 12 12 0 0 1 342 77" stroke="#f0f6fc" stroke-opacity="0.65" stroke-width="1.2" fill="none"/>
+    <circle cx="332" cy="84" r="2.8" fill="#f472b6"/>
   </g>
 </svg>

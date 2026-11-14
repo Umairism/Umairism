@@ -1,36 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="444" height="154" viewBox="0 0 444 154" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="146" viewBox="0 0 398 146" fill="none">
   <defs>
     <radialGradient id="g_st" cx="86%" cy="40%" r="58%">
       <stop offset="0%" stop-color="#52b383" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="4" y="4" width="440" height="150" rx="10" fill="#07090d" stroke="#52b383" stroke-opacity="0.28"/>
-  <rect x="0.5" y="0.5" width="439" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="438" height="148" rx="9" fill="url(#g_st)"/>
+  <rect x="4" y="4" width="394" height="142" rx="10" fill="#07090d" stroke="#52b383" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="393" height="141" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="392" height="140" rx="9" fill="url(#g_st)"/>
 
-  <!-- Top bar -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
-    <circle cx="22" cy="24" r="3" fill="#52b383"/>
-    <text x="32" y="27.5" fill="#52b383" font-weight="600">MEDIA // OFFLINE</text>
-    <text x="420" y="27.5" fill="#8b949e" text-anchor="end">GitHub ↗</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">
+    <circle cx="19" cy="22" r="2.8" fill="#52b383"/>
+    <text x="28" y="25" fill="#52b383" font-weight="600">MEDIA // OFFLINE</text>
+    <text x="376" y="25" fill="#8b949e" text-anchor="end">GitHub ↗</text>
   </g>
 
-  <!-- Left Content -->
-  <text x="20" y="56" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f0f6fc">SlimeTube</text>
-  <text x="20" y="78" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Video streaming client with offline playback</text>
-  <text x="20" y="95" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">caching backed by browser IndexedDB.</text>
+  <text x="17" y="52" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">SlimeTube</text>
+  <text x="17" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">Video streaming client with offline playback</text>
+  <text x="17" y="88" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">caching backed by browser IndexedDB.</text>
 
-  <!-- Stack Footer -->
-  <rect x="20" y="114" width="265" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
-  <text x="28" y="128.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#c9d1d9">React · TypeScript · Vite · IndexedDB</text>
+  <rect x="17" y="106" width="244" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
+  <text x="25" y="120.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.8" fill="#c9d1d9">React · TypeScript · Vite · IndexedDB</text>
 
-  <!-- Right 3D Isometric Artwork -->
-
-  <g>
-    <polygon points="335.08,81.25 370.42,101.65 370.42,111.85 335.08,91.45" fill="#10241c" stroke="#52b383" stroke-width="0.9"/>
-    <polygon points="396.92,86.35 370.42,101.65 370.42,111.85 396.92,96.55" fill="#0b1712" stroke="#52b383" stroke-opacity="0.6" stroke-width="0.9"/>
-    <polygon points="361.58,65.95 396.92,86.35 370.42,101.65 335.08,81.25" fill="#52b383" fill-opacity="0.2" stroke="#52b383" stroke-width="1.1"/>
-    <polygon points="360,72 360,86 376,79" fill="#f0f6fc"/>
+    <g>
+    <polygon points="306.33,79.08 336.05,96.24 336.05,104.82 306.33,87.66" fill="#10241c" stroke="#52b383" stroke-width="0.9"/>
+    <polygon points="357.67,83.76 336.05,96.24 336.05,104.82 357.67,92.34" fill="#0b1712" stroke="#52b383" stroke-opacity="0.6" stroke-width="0.9"/>
+    <polygon points="327.95,66.6 357.67,83.76 336.05,96.24 306.33,79.08" fill="#52b383" fill-opacity="0.2" stroke="#52b383" stroke-width="1.1"/>
+    <polygon points="326,69 326,82 341,75.5" fill="#f0f6fc"/>
   </g>
 </svg>

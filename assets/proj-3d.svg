@@ -1,37 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="444" height="154" viewBox="0 0 444 154" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="146" viewBox="0 0 398 146" fill="none">
   <defs>
     <radialGradient id="g_3dp" cx="86%" cy="40%" r="58%">
       <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="4" y="4" width="440" height="150" rx="10" fill="#07090d" stroke="#a78bfa" stroke-opacity="0.28"/>
-  <rect x="0.5" y="0.5" width="439" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="438" height="148" rx="9" fill="url(#g_3dp)"/>
+  <rect x="4" y="4" width="394" height="142" rx="10" fill="#07090d" stroke="#a78bfa" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="393" height="141" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="392" height="140" rx="9" fill="url(#g_3dp)"/>
 
-  <!-- Top bar -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
-    <circle cx="22" cy="24" r="3" fill="#a78bfa"/>
-    <text x="32" y="27.5" fill="#a78bfa" font-weight="600">WEBGL // SHADERS</text>
-    <text x="420" y="27.5" fill="#8b949e" text-anchor="end">GitHub ↗</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">
+    <circle cx="19" cy="22" r="2.8" fill="#a78bfa"/>
+    <text x="28" y="25" fill="#a78bfa" font-weight="600">WEBGL // SHADERS</text>
+    <text x="376" y="25" fill="#8b949e" text-anchor="end">GitHub ↗</text>
   </g>
 
-  <!-- Left Content -->
-  <text x="20" y="56" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f0f6fc">3D Portfolio</text>
-  <text x="20" y="78" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Scroll-driven Three.js experience with GLSL</text>
-  <text x="20" y="95" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">shaders, bloom pass, and interactive helix.</text>
+  <text x="17" y="52" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">3D Portfolio</text>
+  <text x="17" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">Scroll-driven Three.js experience with GLSL</text>
+  <text x="17" y="88" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">shaders, bloom pass, and interactive helix.</text>
 
-  <!-- Stack Footer -->
-  <rect x="20" y="114" width="265" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
-  <text x="28" y="128.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#c9d1d9">TypeScript · Three.js · GLSL · GSAP</text>
+  <rect x="17" y="106" width="244" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
+  <text x="25" y="120.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.8" fill="#c9d1d9">TypeScript · Three.js · GLSL · GSAP</text>
 
-  <!-- Right 3D Isometric Artwork -->
-
-  <g transform="translate(366, 86)">
-    <ellipse rx="36" ry="15" stroke="#a78bfa" stroke-width="1.1"/>
-    <ellipse rx="36" ry="15" transform="rotate(48)" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
-    <ellipse rx="36" ry="15" transform="rotate(-48)" stroke="#f0f6fc" stroke-opacity="0.35" stroke-width="0.9"/>
-    <circle r="6" fill="#a78bfa" fill-opacity="0.3" stroke="#a78bfa"/>
-    <circle r="2.5" fill="#f0f6fc"/>
+    <g transform="translate(332, 82)">
+    <ellipse rx="31" ry="13" stroke="#a78bfa" stroke-width="1.1"/>
+    <ellipse rx="31" ry="13" transform="rotate(48)" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+    <ellipse rx="31" ry="13" transform="rotate(-48)" stroke="#f0f6fc" stroke-opacity="0.35" stroke-width="0.9"/>
+    <circle r="5.5" fill="#a78bfa" fill-opacity="0.3" stroke="#a78bfa"/>
+    <circle r="2.2" fill="#f0f6fc"/>
   </g>
 </svg>

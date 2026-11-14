@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36" fill="none">
-  <rect x="0" y="10" width="3" height="16" rx="1.5" fill="#52b383"/>
-  <text x="14" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" fill="#52b383">04</text>
-  <text x="44" y="23" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#8b949e">CONNECT</text>
-  <line x1="250" y1="18" x2="730" y2="18" stroke="#30363d" stroke-opacity="0.55" stroke-width="1"/>
-  <text x="896" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#8b949e" text-anchor="end">OPEN TO SWE ROLES</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="34" viewBox="0 0 808 34" fill="none">
+  <rect x="0" y="9" width="3" height="16" rx="1.5" fill="#52b383"/>
+  <text x="12" y="22" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#52b383">04</text>
+  <text x="40" y="22" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#8b949e">CONNECT</text>
+  <line x1="220" y1="17" x2="646" y2="17" stroke="#30363d" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="804" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#8b949e" text-anchor="end">OPEN TO SWE ROLES</text>
 </svg>

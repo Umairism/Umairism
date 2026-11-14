@@ -1,67 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" fill="none">
-  <rect x="5" y="5" width="895" height="215" rx="12" fill="#07090d" stroke="#52b383" stroke-opacity="0.28"/>
-  <rect x="0.5" y="0.5" width="894" height="214" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <line x1="464" y1="24" x2="464" y2="192" stroke="#21262d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="212" viewBox="0 0 808 212" fill="none">
+  <rect x="4" y="4" width="804" height="208" rx="12" fill="#07090d" stroke="#52b383" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="803" height="207" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <line x1="418" y1="22" x2="418" y2="186" stroke="#21262d" stroke-width="1"/>
 
-  <text x="32" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e" letter-spacing="1.2">ARCHITECTURE &amp; CORE STACK</text>
+  <text x="28" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#8b949e" letter-spacing="1.1">ARCHITECTURE &amp; CORE STACK</text>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
-    <!-- 3D stacked bevel blocks -->
-    <rect x="35" y="59" width="400" height="34" rx="6" fill="#07090d" stroke="#52b383" stroke-opacity="0.25"/>
-    <rect x="32" y="56" width="400" height="34" rx="6" fill="#161b22" stroke="#30363d"/>
-    <circle cx="48" cy="73" r="3.5" fill="#52b383"/>
-    <text x="60" y="77" fill="#52b383" font-weight="600">CLIENT / 3D</text>
-    <text x="158" y="77" fill="#c9d1d9">React, Next.js, TypeScript, Three.js</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5">
+    <rect x="31" y="53" width="360" height="34" rx="6" fill="#07090d" stroke="#52b383" stroke-opacity="0.25"/>
+    <rect x="28" y="50" width="360" height="34" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="43" cy="67" r="3" fill="#52b383"/>
+    <text x="54" y="71" fill="#52b383" font-weight="600">CLIENT</text>
+    <text x="122" y="71" fill="#c9d1d9">React, Next.js, TypeScript, Three.js</text>
 
-    <rect x="35" y="105" width="400" height="34" rx="6" fill="#07090d" stroke="#38bdf8" stroke-opacity="0.25"/>
-    <rect x="32" y="102" width="400" height="34" rx="6" fill="#161b22" stroke="#30363d"/>
-    <circle cx="48" cy="119" r="3.5" fill="#38bdf8"/>
-    <text x="60" y="123" fill="#38bdf8" font-weight="600">BACKEND</text>
-    <text x="158" y="123" fill="#c9d1d9">Python, FastAPI, Flask, Node.js</text>
+    <rect x="31" y="97" width="360" height="34" rx="6" fill="#07090d" stroke="#38bdf8" stroke-opacity="0.25"/>
+    <rect x="28" y="94" width="360" height="34" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="43" cy="111" r="3" fill="#38bdf8"/>
+    <text x="54" y="115" fill="#38bdf8" font-weight="600">SERVER</text>
+    <text x="122" y="115" fill="#c9d1d9">Python, FastAPI, Flask, Node.js</text>
 
-    <rect x="35" y="151" width="400" height="34" rx="6" fill="#07090d" stroke="#a78bfa" stroke-opacity="0.25"/>
-    <rect x="32" y="148" width="400" height="34" rx="6" fill="#161b22" stroke="#30363d"/>
-    <circle cx="48" cy="165" r="3.5" fill="#a78bfa"/>
-    <text x="60" y="169" fill="#a78bfa" font-weight="600">DATA &amp; OPS</text>
-    <text x="158" y="169" fill="#c9d1d9">PostgreSQL, Docker, Linux, Git</text>
+    <rect x="31" y="141" width="360" height="34" rx="6" fill="#07090d" stroke="#a78bfa" stroke-opacity="0.25"/>
+    <rect x="28" y="138" width="360" height="34" rx="6" fill="#161b22" stroke="#30363d"/>
+    <circle cx="43" cy="155" r="3" fill="#a78bfa"/>
+    <text x="54" y="159" fill="#a78bfa" font-weight="600">DATA</text>
+    <text x="122" y="159" fill="#c9d1d9">PostgreSQL, Docker, Linux, Git</text>
   </g>
 
-  <text x="496" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e" letter-spacing="1.2">GITHUB DISTRIBUTION  ·  69 PUBLIC REPOS</text>
-  <text x="496" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">
+  <text x="444" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#8b949e" letter-spacing="1.1">GITHUB TELEMETRY  ·  69 PUBLIC REPOS</text>
+  <text x="444" y="66" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">
     TypeScript &amp; Python First
   </text>
-  <text x="496" y="92" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8b949e">
-    Language distribution across public repositories on @Umairism
+  <text x="444" y="85" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8b949e">
+    Primary language breakdown across @Umairism repositories
   </text>
 
   <clipPath id="barClip">
-    <rect x="496" y="110" width="370" height="12" rx="6"/>
+    <rect x="444" y="102" width="334" height="11" rx="5.5"/>
   </clipPath>
   <g clip-path="url(#barClip)">
-    <rect x="496" y="110" width="139.4" height="12" fill="#3178c6"/>
-    <rect x="635.4" y="110" width="112.6" height="12" fill="#52b383"/>
-    <rect x="748.0" y="110" width="53.6" height="12" fill="#f1e05a"/>
-    <rect x="801.6" y="110" width="64.4" height="12" fill="#a78bfa"/>
-    <rect x="450" y="110" width="50" height="12" fill="#ffffff" fill-opacity="0.16">
-      <animate attributeName="x" values="440;880;880" dur="3.6s" repeatCount="indefinite"/>
+    <rect x="444" y="102" width="125.9" height="11" fill="#3178c6"/>
+    <rect x="569.9" y="102" width="101.7" height="11" fill="#52b383"/>
+    <rect x="671.6" y="102" width="48.4" height="11" fill="#f1e05a"/>
+    <rect x="720.0" y="102" width="58.0" height="11" fill="#a78bfa"/>
+    <rect x="400" y="102" width="48" height="11" fill="#ffffff" fill-opacity="0.16">
+      <animate attributeName="x" values="390;790;790" dur="3.6s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">
-    <circle cx="502" cy="146" r="4" fill="#3178c6"/>
-    <text x="513" y="150">TypeScript</text>
-    <text x="662" y="150" fill="#8b949e" text-anchor="end">26 (38%)</text>
+  <!-- Wide clean 2x2 legend with generous clearance -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#c9d1d9">
+    <circle cx="450" cy="138" r="3.5" fill="#3178c6"/>
+    <text x="460" y="142">TypeScript</text>
+    <text x="602" y="142" fill="#8b949e" text-anchor="end">26 (38%)</text>
 
-    <circle cx="502" cy="172" r="4" fill="#52b383"/>
-    <text x="513" y="176">Python</text>
-    <text x="662" y="176" fill="#8b949e" text-anchor="end">21 (30%)</text>
+    <circle cx="450" cy="164" r="3.5" fill="#52b383"/>
+    <text x="460" y="168">Python</text>
+    <text x="602" y="168" fill="#8b949e" text-anchor="end">21 (30%)</text>
 
-    <circle cx="696" cy="146" r="4" fill="#f1e05a"/>
-    <text x="707" y="150">JavaScript</text>
-    <text x="866" y="150" fill="#8b949e" text-anchor="end">10 (14%)</text>
+    <circle cx="624" cy="138" r="3.5" fill="#f1e05a"/>
+    <text x="634" y="142">JS</text>
+    <text x="782" y="142" fill="#8b949e" text-anchor="end">10 (14%)</text>
 
-    <circle cx="696" cy="172" r="4" fill="#a78bfa"/>
-    <text x="707" y="176">C# / C++ / Other</text>
-    <text x="866" y="176" fill="#8b949e" text-anchor="end">12 (17%)</text>
+    <circle cx="624" cy="164" r="3.5" fill="#a78bfa"/>
+    <text x="634" y="168">C# / C++</text>
+    <text x="782" y="168" fill="#8b949e" text-anchor="end">12 (17%)</text>
   </g>
 </svg>

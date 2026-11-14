@@ -1,41 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="444" height="154" viewBox="0 0 444 154" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="146" viewBox="0 0 398 146" fill="none">
   <defs>
     <radialGradient id="g_pa" cx="86%" cy="40%" r="58%">
       <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="4" y="4" width="440" height="150" rx="10" fill="#07090d" stroke="#f59e0b" stroke-opacity="0.28"/>
-  <rect x="0.5" y="0.5" width="439" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="438" height="148" rx="9" fill="url(#g_pa)"/>
+  <rect x="4" y="4" width="394" height="142" rx="10" fill="#07090d" stroke="#f59e0b" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="393" height="141" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="392" height="140" rx="9" fill="url(#g_pa)"/>
 
-  <!-- Top bar -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
-    <circle cx="22" cy="24" r="3" fill="#f59e0b"/>
-    <text x="32" y="27.5" fill="#f59e0b" font-weight="600">AI // OFFLINE</text>
-    <text x="420" y="27.5" fill="#8b949e" text-anchor="end">GitHub ↗</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">
+    <circle cx="19" cy="22" r="2.8" fill="#f59e0b"/>
+    <text x="28" y="25" fill="#f59e0b" font-weight="600">AI // OFFLINE</text>
+    <text x="376" y="25" fill="#8b949e" text-anchor="end">GitHub ↗</text>
   </g>
 
-  <!-- Left Content -->
-  <text x="20" y="56" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f0f6fc">Portable AI Agent</text>
-  <text x="20" y="78" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Local-first assistant running PyTorch</text>
-  <text x="20" y="95" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">inference offline with zero cloud APIs.</text>
+  <text x="17" y="52" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">Portable AI Agent</text>
+  <text x="17" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">Local-first assistant running PyTorch</text>
+  <text x="17" y="88" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">inference offline with zero cloud APIs.</text>
 
-  <!-- Stack Footer -->
-  <rect x="20" y="114" width="265" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
-  <text x="28" y="128.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#c9d1d9">Python · PyTorch · Local</text>
+  <rect x="17" y="106" width="244" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
+  <text x="25" y="120.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.8" fill="#c9d1d9">Python · PyTorch · Local</text>
 
-  <!-- Right 3D Isometric Artwork -->
-
-  <g>
-    <circle cx="338" cy="64" r="3" fill="#f59e0b"/>
-    <circle cx="394" cy="68" r="3" fill="#52b383"/>
-    <circle cx="390" cy="108" r="3" fill="#38bdf8"/>
-    <line x1="338" y1="64" x2="366" y2="82" stroke="#f59e0b" stroke-opacity="0.5"/>
-    <line x1="394" y1="68" x2="366" y2="82" stroke="#52b383" stroke-opacity="0.5"/>
-    <line x1="390" y1="108" x2="366" y2="82" stroke="#38bdf8" stroke-opacity="0.5"/>
-    <polygon points="343.28,67.76 366.0,80.88 366.0,107.12 343.28,94.0" fill="#271c0b" stroke="#f59e0b" stroke-width="0.9"/>
-    <polygon points="388.72,67.76 366.0,80.88 366.0,107.12 388.72,94.0" fill="#191106" stroke="#f59e0b" stroke-opacity="0.7" stroke-width="0.9"/>
-    <polygon points="366.0,54.64 388.72,67.76 366.0,80.88 343.28,67.76" fill="#f59e0b" fill-opacity="0.28" stroke="#f59e0b" stroke-width="1.1"/>
+    <g>
+    <circle cx="308" cy="62" r="2.6" fill="#f59e0b"/>
+    <circle cx="356" cy="66" r="2.6" fill="#52b383"/>
+    <circle cx="352" cy="102" r="2.6" fill="#38bdf8"/>
+    <line x1="308" y1="62" x2="332" y2="78" stroke="#f59e0b" stroke-opacity="0.5"/>
+    <line x1="356" y1="66" x2="332" y2="78" stroke="#52b383" stroke-opacity="0.5"/>
+    <line x1="352" y1="102" x2="332" y2="78" stroke="#38bdf8" stroke-opacity="0.5"/>
+    <polygon points="312.77,67.8 332.0,78.9 332.0,101.1 312.77,90.0" fill="#271c0b" stroke="#f59e0b" stroke-width="0.9"/>
+    <polygon points="351.23,67.8 332.0,78.9 332.0,101.1 351.23,90.0" fill="#191106" stroke="#f59e0b" stroke-opacity="0.7" stroke-width="0.9"/>
+    <polygon points="332.0,56.7 351.23,67.8 332.0,78.9 312.77,67.8" fill="#f59e0b" fill-opacity="0.28" stroke="#f59e0b" stroke-width="1.1"/>
   </g>
 </svg>

@@ -1,36 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="444" height="154" viewBox="0 0 444 154" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="146" viewBox="0 0 398 146" fill="none">
   <defs>
     <radialGradient id="g_lc" cx="86%" cy="40%" r="58%">
       <stop offset="0%" stop-color="#52b383" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="4" y="4" width="440" height="150" rx="10" fill="#07090d" stroke="#52b383" stroke-opacity="0.28"/>
-  <rect x="0.5" y="0.5" width="439" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="438" height="148" rx="9" fill="url(#g_lc)"/>
+  <rect x="4" y="4" width="394" height="142" rx="10" fill="#07090d" stroke="#52b383" stroke-opacity="0.28"/>
+  <rect x="0.5" y="0.5" width="393" height="141" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="392" height="140" rx="9" fill="url(#g_lc)"/>
 
-  <!-- Top bar -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
-    <circle cx="22" cy="24" r="3" fill="#52b383"/>
-    <text x="32" y="27.5" fill="#52b383" font-weight="600">LEDGER // VERIFY</text>
-    <text x="420" y="27.5" fill="#8b949e" text-anchor="end">GitHub ↗</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5">
+    <circle cx="19" cy="22" r="2.8" fill="#52b383"/>
+    <text x="28" y="25" fill="#52b383" font-weight="600">LEDGER // VERIFY</text>
+    <text x="376" y="25" fill="#8b949e" text-anchor="end">GitHub ↗</text>
   </g>
 
-  <!-- Left Content -->
-  <text x="20" y="56" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f0f6fc">LockChain</text>
-  <text x="20" y="78" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Custom blockchain ledger built to issue and</text>
-  <text x="20" y="95" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">verify tamper-proof academic certificates.</text>
+  <text x="17" y="52" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">LockChain</text>
+  <text x="17" y="72" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">Custom blockchain ledger built to issue and</text>
+  <text x="17" y="88" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.2" fill="#8b949e">verify tamper-proof academic certificates.</text>
 
-  <!-- Stack Footer -->
-  <rect x="20" y="114" width="265" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
-  <text x="28" y="128.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#c9d1d9">React · TypeScript · Flask · Python</text>
+  <rect x="17" y="106" width="244" height="22" rx="4" fill="#161b22" stroke="#30363d"/>
+  <text x="25" y="120.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.8" fill="#c9d1d9">React · TypeScript · Flask · Python</text>
 
-  <!-- Right 3D Isometric Artwork -->
-
-  <g>
-    <line x1="340" y1="92" x2="392" y2="68" stroke="#38bdf8" stroke-width="1.5"/>
-    <polygon points="326.14,80.0 340.0,88.0 340.0,104.0 326.14,96.0" fill="#102130" stroke="#38bdf8" stroke-width="0.9"/><polygon points="353.86,80.0 340.0,88.0 340.0,104.0 353.86,96.0" fill="#0a1620" stroke="#38bdf8" stroke-width="0.9"/><polygon points="340.0,72.0 353.86,80.0 340.0,88.0 326.14,80.0" fill="#38bdf8" fill-opacity="0.3" stroke="#38bdf8" stroke-width="1"/>
-    <polygon points="352.14,68.0 366.0,76.0 366.0,92.0 352.14,84.0" fill="#10241c" stroke="#52b383" stroke-width="0.9"/><polygon points="379.86,68.0 366.0,76.0 366.0,92.0 379.86,84.0" fill="#0a1812" stroke="#52b383" stroke-width="0.9"/><polygon points="366.0,60.0 379.86,68.0 366.0,76.0 352.14,68.0" fill="#52b383" fill-opacity="0.3" stroke="#52b383" stroke-width="1"/>
-    <polygon points="378.14,56.0 392.0,64.0 392.0,80.0 378.14,72.0" fill="#1b1834" stroke="#a78bfa" stroke-width="0.9"/><polygon points="405.86,56.0 392.0,64.0 392.0,80.0 405.86,72.0" fill="#110f22" stroke="#a78bfa" stroke-width="0.9"/><polygon points="392.0,48.0 405.86,56.0 392.0,64.0 378.14,56.0" fill="#a78bfa" fill-opacity="0.3" stroke="#a78bfa" stroke-width="1"/>
+    <g>
+    <line x1="309" y1="88" x2="355" y2="66" stroke="#38bdf8" stroke-width="1.4"/>
+    <polygon points="297.46,78.68 309.0,85.34 309.0,98.66 297.46,92.0" fill="#102130" stroke="#38bdf8" stroke-width="0.9"/><polygon points="320.54,78.68 309.0,85.34 309.0,98.66 320.54,92.0" fill="#0a1620" stroke="#38bdf8" stroke-width="0.9"/><polygon points="309.0,72.02 320.54,78.68 309.0,85.34 297.46,78.68" fill="#38bdf8" fill-opacity="0.3" stroke="#38bdf8" stroke-width="1"/>
+    <polygon points="320.46,67.68 332.0,74.34 332.0,87.66 320.46,81.0" fill="#10241c" stroke="#52b383" stroke-width="0.9"/><polygon points="343.54,67.68 332.0,74.34 332.0,87.66 343.54,81.0" fill="#0a1812" stroke="#52b383" stroke-width="0.9"/><polygon points="332.0,61.02 343.54,67.68 332.0,74.34 320.46,67.68" fill="#52b383" fill-opacity="0.3" stroke="#52b383" stroke-width="1"/>
+    <polygon points="343.46,56.68 355.0,63.34 355.0,76.66 343.46,70.0" fill="#1b1834" stroke="#a78bfa" stroke-width="0.9"/><polygon points="366.54,56.68 355.0,63.34 355.0,76.66 366.54,70.0" fill="#110f22" stroke="#a78bfa" stroke-width="0.9"/><polygon points="355.0,50.02 366.54,56.68 355.0,63.34 343.46,56.68" fill="#a78bfa" fill-opacity="0.3" stroke="#a78bfa" stroke-width="1"/>
   </g>
 </svg>
